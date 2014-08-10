@@ -14,7 +14,7 @@ v2 tries to fix v1 biggest issue - the redundancy - by using so called derived p
 ### Benchmarks
 The following are timing benchmarks (in milliseconds). Note that those times are measured by the planner.
 
-Level | v1      | v2   |   |   | level | v1         | v2
+Level | v1      | v2   |   |   | Level | v1         | v2
 ------|---------|------|---|---|-------|------------|---------
 0     | 0       | 0    |   |   | 18    | __295__    | 420
 1     | __0__   | 15   |   |   | 19    | __1965__   | 2121
