@@ -45,7 +45,7 @@ public class GASLevel {
 	private int[] pos_x_final;
 
 	/**
-	 * The goal y-coordinate of the squares (-1 if there is no constraint for
+	 * The goal y-coordinates of the squares (-1 if there is no constraint for
 	 * that)
 	 */
 	private int[] pos_y_final;
